@@ -1,35 +1,41 @@
-### Hi there 👋, my name is Innocent Rangaka
-#### Aspiring Front-End Developer with a Passion for JavaScript
-![Aspiring Front-End Developer with a Passion for JavaScript](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Innocent Rangaka
+========================================================================================================================================
 
-I am a highly motivated software development student and am eager to leverage my skills and knowledge to contribute to innovative and user-friendly web applications.
+Aspiring Front-End Developer with a Passion for JavaScript
+----------------------------------------------------------
 
-My passion for front-end development stems from my fascination with creating visually appealing and interactive interfaces that provide seamless user experiences. I am proficient in the core front-end development languages and frameworks (HTML, CSS, JavaScript, Bootstrap, Tailwind), PHP and MySQL. I am actively expanding my skillset by exploring popular frameworks like React and VUE JS.
+I am a highly motivated software development student and am eager to leverage my skills and knowledge to contribute to innovative and user-friendly web applications. My passion for front-end development stems from my fascination with creating visually appealing and interactive interfaces that provide seamless user experiences. I am proficient in the core front-end development languages and frameworks (HTML, CSS, JavaScript, Bootstrap, Tailwind), PHP and MySQL. I am actively expanding my skillset by exploring popular frameworks like React and VUE JS. Beyond my technical skills, I possess strong problem-solving abilities and a collaborative spirit. I am a quick learner, eager to adapt and embrace new technologies. I am particularly interested in the potential of front-end development to improve access to information and services in solving real-world problems and achieving positive social change, and I am actively seeking opportunities to contribute my skills towards this goal. In my free time, I enjoy super movies and series if I am not working on my personal and group projects, which further fuels my creativity and problem-solving skills. I am always looking for ways to learn and grow as a developer, and I am excited to contribute my skills and enthusiasm to a dynamic and collaborative team.
 
-Beyond my technical skills, I possess strong problem-solving abilities and a collaborative spirit. I am a quick learner, eager to adapt and embrace new technologies. I am particularly interested in the potential of front-end development to improve access to information and services in solving real-world problems and achieving positive social change, and I am actively seeking opportunities to contribute my skills towards this goal.
+* 🌍  I'm based in Chaneng, Rustenburg, NW, RSA
+* ✉️  You can contact me at [itrangaka@gmail.com](mailto:itrangaka@gmail.com)
+* 🚀  I'm currently working on [Edu Hup](http://github.com/InnocentRangaka/Edu-Hub.git)
+* 🧠  I'm learning JS Language
+* 🤝  I'm open to collaborating on Other JS, PHP, Bootstrap, and Tailwind projects
+* ⚡  I'm secretly funny... but don't tell anyone
 
-In my free time, I enjoy super movies and series if I am not working on my personal and group projects, which further fuels my creativity and problem-solving skills. I am always looking for ways to learn and grow as a developer, and I am excited to contribute my skills and enthusiasm to a dynamic and collaborative team.
+<a href="https://www.github.com/InnocentRangaka" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
+### Skills
 
 
+<p align="left">
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</p>
 
 
+### Socials
 
-<!--
-**InnocentRangaka/InnocentRangaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://www.codepen.io/Innocent-Rangaka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/1177544204466008124" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/InnocentRangaka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/itrangaka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-Here are some ideas to get you started:
+### Badges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/InnocentRangaka"><img src="https://github-readme-stats.vercel.app/api?username=InnocentRangaka&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="InnocentRangaka's GitHub stats" /></a>
+
+<a href="http://www.github.com/InnocentRangaka"><img src="https://github-readme-streak-stats.herokuapp.com/?user=InnocentRangaka&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/InnocentRangaka"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=InnocentRangaka&bg_color=0f172a&color=ffffff&line=3382ed&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/InnocentRangaka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InnocentRangaka&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
