@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=f
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/InnocentRangaka"><img src="https://github-readme-stats.vercel.app/api?username=InnocentRangaka&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="InnocentRangaka's GitHub stats" /></a>
+<a href="http://www.github.com/InnocentRangaka"><img src="https://github-readme-stats.vercel.app/api?username=InnocentRangaka&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0000000&hide_border=true&show_icons=true" alt="InnocentRangaka's GitHub stats" /></a>
 
 <a href="http://www.github.com/InnocentRangaka"><img src="https://github-readme-streak-stats.herokuapp.com/?user=InnocentRangaka&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
