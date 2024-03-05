@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Front-End Developer with a Passion for JavaScript
 ----------------------------------------------------------
 <br>
-I am a highly motivated software development student and am eager to leverage my skills and knowledge to contribute to innovative and user-friendly web applications. My passion for front-end development stems from my fascination with creating visually appealing and interactive interfaces that provide seamless user experiences. I am proficient in the core front-end development languages and frameworks (HTML, CSS, JavaScript, Bootstrap, Tailwind), PHP and MySQL. I am actively expanding my skillset by exploring popular frameworks like React and VUE JS. Beyond my technical skills, I possess strong problem-solving abilities and a collaborative spirit. I am a quick learner, eager to adapt and embrace new technologies. I am particularly interested in the potential of front-end development to improve access to information and services in solving real-world problems and achieving positive social change, and I am actively seeking opportunities to contribute my skills towards this goal. In my free time, I enjoy super movies and series if I am not working on my personal and group projects, which further fuels my creativity and problem-solving skills. I am always looking for ways to learn and grow as a developer, and I am excited to contribute my skills and enthusiasm to a dynamic and collaborative team.
+<p>I am a highly motivated software development student and am eager to leverage my skills and knowledge to contribute to innovative and user-friendly web applications. My passion for front-end development stems from my fascination with creating visually appealing and interactive interfaces that provide seamless user experiences. I am proficient in the core front-end development languages and frameworks (HTML, CSS, JavaScript, Bootstrap, Tailwind), PHP and MySQL. I am actively expanding my skillset by exploring popular frameworks like React and VUE JS. Beyond my technical skills, I possess strong problem-solving abilities and a collaborative spirit. I am a quick learner, eager to adapt and embrace new technologies. I am particularly interested in the potential of front-end development to improve access to information and services in solving real-world problems and achieving positive social change, and I am actively seeking opportunities to contribute my skills towards this goal. In my free time, I enjoy super movies and series if I am not working on my personal and group projects, which further fuels my creativity and problem-solving skills. I am always looking for ways to learn and grow as a developer, and I am excited to contribute my skills and enthusiasm to a dynamic and collaborative team.</p>
 <br><br>
 * 🌍  I'm based in Chaneng, Rustenburg, NW, RSA
 * ✉️  You can contact me at [itrangaka@gmail.com](mailto:itrangaka@gmail.com)
@@ -26,7 +26,36 @@ src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=f
 
 ### Socials
 
-<p align="left"> <a href="https://www.codepen.io/Innocent-Rangaka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/1177544204466008124" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/InnocentRangaka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/itrangaka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> 
+  <a href="https://www.codepen.io/Innocent-Rangaka" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  <a href="https://discord.com/users/1177544204466008124" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  <a href="https://www.github.com/InnocentRangaka" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  <a href="https://www.x.com/itrangaka" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
+    </picture> 
+  </a>
+</p>
 
 ### Badges
 
