@@ -85,3 +85,8 @@ src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=f
 [![My Github cpntibutions graph](https://github-readme-activity-graph.vercel.app/graph?username=InnocentRangaka&theme=react&bg_color=0f172a&line=3382ed&point=3382ed&title_color=3382ed&hide_border=true&custom_title=Commit%20Graph)](https://github.com/InnocentRangaka/github-readme-activity-graph)
 
 <a href="https://github.com/InnocentRangaka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InnocentRangaka&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<br>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=InnocentRangaka&&style=flat-square" align="center" />
+</div>  
