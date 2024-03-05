@@ -14,7 +14,7 @@ I am a highly motivated software development student and am eager to leverage my
 * 🧠  I'm learning JS Language
 * 🤝  I'm open to collaborating on Other JS, PHP, Bootstrap, and Tailwind projects
 * ⚡  I'm secretly funny... but don't tell anyone
-
+<br>
 <a href="https://www.github.com/InnocentRangaka" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
 
