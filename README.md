@@ -16,6 +16,7 @@ Aspiring Front-End Developer with a Passion for JavaScript
 <a href="https://www.github.com/InnocentRangaka" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
 
+
 ### Skills
 
 
@@ -56,6 +57,7 @@ src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=f
     </picture> 
   </a>
 </p>
+
 
 ### Badges
 
