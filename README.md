@@ -7,7 +7,7 @@ Aspiring $\textcolor{#3382ed}{\textsf{Front-End Developer}}$ | Learner of $\text
 
 <p>I am a highly motivated software development student and am eager to leverage my skills and knowledge to contribute to innovative and user-friendly web applications. My passion for front-end development stems from my fascination with creating visually appealing and interactive interfaces that provide seamless user experiences. </p>
 
-<p>I am proficient in the core front-end development languages and frameworks (HTML, CSS, JavaScript, Bootstrap, Tailwind), PHP, and MySQL. I am actively expanding my skillset by exploring popular frameworks like React and VUE JS. Beyond my technical skills, I possess strong problem-solving abilities and a collaborative spirit. </p>
+<p>I am proficient in the core front-end development languages and frameworks (HTML, CSS, JavaScript, Bootstrap, Tailwind) and, PHP and MySQL. I am actively expanding my skillset by exploring popular frameworks like React and VUE JS. Beyond my technical skills, I possess strong problem-solving abilities and a collaborative spirit. </p>
 
 <p>I am a quick learner, eager to adapt and embrace new technologies. I am particularly interested in the potential of front-end development to improve access to information and services in solving real-world problems and achieving positive social change, and I am actively seeking opportunities to contribute my skills towards this goal. In my free time, I enjoy super movies and series if I am not working on my personal and group projects, which further fuels my creativity and problem-solving skills. I am always looking for ways to learn and grow as a developer, and I am excited to contribute my skills and enthusiasm to a dynamic and collaborative team.<br></p>
 
@@ -17,6 +17,9 @@ Aspiring $\textcolor{#3382ed}{\textsf{Front-End Developer}}$ | Learner of $\text
 * 🧠  I'm learning JS Language
 * 🤝  I'm open to collaborating on JS, PHP, Bootstrap, and Tailwind projects
 * ⚡  I'm secretly funny... but don't tell anyone
+
+### $\textcolor{#3382ed}{\textsf{Interests}}$
+*
 <br>
 <a href="https://www.github.com/InnocentRangaka" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
@@ -34,15 +37,20 @@ src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=f
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>&nbsp
 </p>
 
+**Back-End Development**
+<p align="left">
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>&nbsp
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>&nbsp
+</p>
+
 **Other**:
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/InnocentRangaka/web-assets/blob/6c72ced370393d577fe81c7134061809652216c8/img/icons/vscode-icon.svg" width="36" height="36" alt="Visual Studio Code" /></a>&nbsp
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>&nbsp
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&nbsp
+  <a href="https://cpanel.net/" target="_blank" rel="noreferrer"><img src="https://github.com/InnocentRangaka/web-assets/blob/d2314a19c42a9d58f383bdf28f20fbf97a8d8143/img/icons/cpanel-icon.svg" width="36" height="36" alt="CPanel" /></a>&nbsp
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>&nbsp
   <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>&nbsp
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>&nbsp
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>&nbsp
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>&nbsp
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
@@ -119,10 +127,9 @@ src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=f
 
 ### $\textcolor{#3382ed}{\textsf{Stats}}$
 
-<a href="http://www.github.com/InnocentRangaka"><img src="https://github-readme-stats.vercel.app/api?username=InnocentRangaka&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="InnocentRangaka's GitHub stats" /></a>
+<a href="https://github.com/InnocentRangaka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InnocentRangaka&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<a href="http://www.github.com/InnocentRangaka"><img src="https://github-readme-stats.vercel.app/api?username=InnocentRangaka&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="InnocentRangaka's GitHub stats" /></a>
 <a href="http://www.github.com/InnocentRangaka"><img src="https://github-readme-streak-stats.herokuapp.com/?user=InnocentRangaka&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 [![My Github cpntibutions graph](https://github-readme-activity-graph.vercel.app/graph?username=InnocentRangaka&theme=react&bg_color=0f172a&line=3382ed&point=3382ed&title_color=3382ed&hide_border=true&custom_title=Commit%20Graph)](https://github.com/InnocentRangaka/github-readme-activity-graph)
-
-<a href="https://github.com/InnocentRangaka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InnocentRangaka&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
