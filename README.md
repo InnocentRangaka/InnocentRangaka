@@ -5,11 +5,7 @@ Aspiring $\textcolor{#3382ed}{\textsf{Front-End Developer}}$ | Learner of $\text
 <br>
 <img src="https://github.com/InnocentRangaka/web-assets/blob/main/myBCLphoto2.jpg?raw=true" width="50%" alt="Innocent Rangaka's banner">
 
-<p>I am a highly motivated software development student and am eager to leverage my skills and knowledge to contribute to innovative and user-friendly web applications. My passion for front-end development stems from my fascination with creating visually appealing and interactive interfaces that provide seamless user experiences. </p>
-
-<p>I am proficient in the core front-end development languages and frameworks (HTML, CSS, JavaScript, Bootstrap, Tailwind) and, PHP and MySQL. I am actively expanding my skillset by exploring popular frameworks like React and VUE JS. Beyond my technical skills, I possess strong problem-solving abilities and a collaborative spirit. </p>
-
-<p>I am a quick learner, eager to adapt and embrace new technologies. I am particularly interested in the potential of front-end development to improve access to information and services in solving real-world problems and achieving positive social change, and I am actively seeking opportunities to contribute my skills towards this goal. In my free time, I enjoy super movies and series if I am not working on my personal and group projects, which further fuels my creativity and problem-solving skills. I am always looking for ways to learn and grow as a developer, and I am excited to contribute my skills and enthusiasm to a dynamic and collaborative team.<br></p>
+<p>I'm a motivated software development student, passionate about crafting user-centric and innovative web experiences. My fascination with creating visually appealing and interactive interfaces fueled my passion for front-end development, where I strive to provide seamless user experiences with HTML, CSS (CSS3, Bootstrap, Tailwind), JavaScript, PHP, and MySQL.</p>
 
 * 🌍  I'm based in [Chaneng, Rustenburg, NW, RSA](https://maps.app.goo.gl/EhY3Gr1BPzQCpUjr6)
 * ✉️  You can contact me at [itrangaka@gmail.com](mailto:itrangaka@gmail.com)
@@ -19,7 +15,11 @@ Aspiring $\textcolor{#3382ed}{\textsf{Front-End Developer}}$ | Learner of $\text
 * ⚡  I'm secretly funny... but don't tell anyone
 
 ### $\textcolor{#3382ed}{\textsf{Interests}}$
-*
+* Building user-friendly and visually appealing interfaces
+* Leveraging front-end development to solve real-world problems
+* Create positive social impact through technology
+* Continuous learning and staying updated with the latest technologies
+
 <br>
 <a href="https://www.github.com/InnocentRangaka" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
@@ -44,7 +44,7 @@ src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=f
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>&nbsp
 </p>
 
-**Other**:
+**Other Tech Skills**:
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/InnocentRangaka/web-assets/blob/6c72ced370393d577fe81c7134061809652216c8/img/icons/vscode-icon.svg" width="36" height="36" alt="Visual Studio Code" /></a>&nbsp
   <a href="https://cpanel.net/" target="_blank" rel="noreferrer"><img src="https://github.com/InnocentRangaka/web-assets/blob/d2314a19c42a9d58f383bdf28f20fbf97a8d8143/img/icons/cpanel-icon.svg" width="36" height="36" alt="CPanel" /></a>&nbsp
@@ -54,6 +54,10 @@ src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=f
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>&nbsp
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
+
+**Soft Skills**
+* Problem Solving
+* Collaboration
 
 ### $\textcolor{#3382ed}{\textsf{Projects}}$
 
@@ -91,7 +95,7 @@ src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=f
     </div>
 
 
-### $\textcolor{#3382ed}{\textsf{Socials}}$
+### $\textcolor{#3382ed}{\textsf{Connect with Me:}}$
 
 <p align="left"> 
   <a href="https://www.codepen.io/Innocent-Rangaka" target="_blank" rel="noreferrer"> 
