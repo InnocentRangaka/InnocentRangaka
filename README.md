@@ -39,6 +39,41 @@ src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=f
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
 
+### $\textcolor{#3382ed}{\textsf{Projects}}$
+
+<div class="image-container">
+        <a href="https://table2part5.netlify.app">
+          <picture> 
+            <img src="https://raw.githubusercontent.com/InnocentRangaka/web-assets/main/img/thumbs/table2part5-thumb.avif?token=GHSAT0AAAAAACM4DROHQGBBPAP7M47TP5DYZPID7YQ" alt="Table2Part5" width="33%"> 
+          </picture> 
+        </a>
+        <a href="https://ir532portfoliopiece.netlify.app">
+          <picture> 
+            <img src="https://raw.githubusercontent.com/InnocentRangaka/web-assets/main/img/thumbs/cache-thumb.avif?token=GHSAT0AAAAAACM4DROHTV5TE7EPR6Q3O2Y2ZPID35A" alt="Portfolio Piece" width="33%"> 
+          </picture>
+        </a>
+        <a href="https://ir532keeplist.netlify.app">
+          <picture> 
+            <img src="https://raw.githubusercontent.com/InnocentRangaka/web-assets/main/img/thumbs/KeepList-thumb.avif?token=GHSAT0AAAAAACM4DROG6XNZ37ZIOVVB27RUZPID2MQ" alt="Keep List" width="33%"> 
+          </picture> 
+        </a>
+        <a href="https://ir532petsprofile.netlify.app">
+          <picture> 
+            <img src="https://raw.githubusercontent.com/InnocentRangaka/web-assets/main/img/thumbs/petsInstagram-thumb.avif?token=GHSAT0AAAAAACM4DROH6M67XP3DTIMP576GZPID7JQ" alt="Pet Profile" width="33%"> 
+          </picture>
+        </a>
+        <a href="https://ir532blackjack.netlify.app">
+          <picture> 
+            <img src="https://raw.githubusercontent.com/InnocentRangaka/web-assets/main/img/thumbs/blackjack-thumb.avif?token=GHSAT0AAAAAACM4DROHRYZHXAC3IQ36KXVGZPID3NQ" alt="Blackjack Game" width="33%"> 
+          </picture>
+        </a>
+        <a href="https://innran532miportfolio.netlify.app">
+          <picture width="33.33%"> 
+            <img src="https://raw.githubusercontent.com/InnocentRangaka/web-assets/main/img/thumbs/cache-thumb.avif?token=GHSAT0AAAAAACM4DROHTV5TE7EPR6Q3O2Y2ZPID35A" alt="Mi Portfolio" width="33%"> 
+          </picture>
+        </a>
+    </div>
+
 
 ### $\textcolor{#3382ed}{\textsf{Socials}}$
 
