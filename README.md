@@ -6,6 +6,8 @@ Aspiring $\textcolor{#3382ed}{\textsf{Front-End Developer}}$ | Learner of $\text
 
 <img src="https://github.com/InnocentRangaka/web-assets/blob/ffc68e4c6178c384579d86c6834dae311f4831b6/img/me/myBCLphoto2.jpg?raw=true" width="50%" alt="Innocent Rangaka's banner">
 
+<h2> $\textcolor{#3382ed}{\textsf{Know Me}}$ </h2>
+
 <p>I'm a motivated software development student, passionate about crafting user-centric and innovative web experiences. My fascination with creating visually appealing and interactive interfaces fueled my passion for front-end development, where I strive to provide seamless user experiences with HTML, CSS (CSS3, Bootstrap, Tailwind), JavaScript, PHP, and MySQL.</p>
 
 * 🌍  I'm based in [Chaneng, Rustenburg, NW, RSA](https://maps.app.goo.gl/EhY3Gr1BPzQCpUjr6)
@@ -25,7 +27,8 @@ Aspiring $\textcolor{#3382ed}{\textsf{Front-End Developer}}$ | Learner of $\text
 <a href="https://www.github.com/InnocentRangaka" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
 
-### $\textcolor{#3382ed}{\textsf{Skills}}$
+<br>
+<h2> $\textcolor{#3382ed}{\textsf{My Skills and abilities}}$ </h2>
 
 <img align="right" src="https://github.com/InnocentRangaka/web-assets/blob/main/img/coding.gif?raw=true" width="300" alt="Programmer Image">
 
@@ -66,7 +69,8 @@ src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=f
 * Adaptability
 * Teamwork and collaboration
 
-### $\textcolor{#3382ed}{\textsf{Projects}}$
+<br>
+<h2> $\textcolor{#3382ed}{\textsf{Glance at My Projects}}$ </h2>
 
 <div class="image-container">
         <a href="https://table2part5.netlify.app">
@@ -101,8 +105,8 @@ src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=f
         </a>
     </div>
 
-
-### $\textcolor{#3382ed}{\textsf{Connect with Me:}}$
+<br>
+<h2> $\textcolor{#3382ed}{\textsf{Connect with Me}}$ </h2>
 
 <div align="left"> 
   <a href="https://www.codepen.io/Innocent-Rangaka" target="_blank" rel="noreferrer"> 
@@ -135,8 +139,8 @@ src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=f
   </a>&nbsp
 </div>
 
-
-### $\textcolor{#3382ed}{\textsf{Stats}}$
+<br>
+<h2> $\textcolor{#3382ed}{\textsf{My Stats}}$ </h2>
 
 <a href="https://github.com/InnocentRangaka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InnocentRangaka&layout=compact&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="195"/></a>
 
