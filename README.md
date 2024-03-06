@@ -56,8 +56,13 @@ src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=f
 </p>
 
 **Soft Skills**
-* Problem Solving
-* Collaboration
+* Creativity and Empathy
+* Active listening
+* Problem Solving and critical thinkin
+* Self-management
+* Curiosity and williness to learn
+* Adaptability
+* Teamwork and collaboration
 
 ### $\textcolor{#3382ed}{\textsf{Projects}}$
 
