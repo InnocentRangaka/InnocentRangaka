@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm $\textcolor{#3382ed}{\textsf{Innocent Rangaka }}$ 
-========================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm $\textcolor{#3382ed}{\textsf{Innocent Rangaka }}$ 
+=================================================================================================================================================
 
 Aspiring $\textcolor{#3382ed}{\textsf{Front-End Developer}}$ with a Passion for $\textcolor{#3382ed}{\textsf{JavaScript}}$ 
 ----------------------------------------------------------
@@ -70,9 +70,7 @@ src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=f
 </p>
 
 
-### $\textcolor{#3382ed}{\textsf{Badges}}$
-
-<b>My GitHub Stats</b>
+### $\textcolor{#3382ed}{\textsf{Stats}}$
 
 <a href="http://www.github.com/InnocentRangaka"><img src="https://github-readme-stats.vercel.app/api?username=InnocentRangaka&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="InnocentRangaka's GitHub stats" /></a>
 
