@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Innocent Rangaka
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm $\textcolor{#3382ed}{\textsf{Innocent Rangaka }}$ 
 ========================================================================================================================================
 
-Aspiring Front-End Developer with a Passion for JavaScript
+Aspiring $\textcolor{#3382ed}{\textsf{Front-End Developer}}$ with a Passion for $\textcolor{#3382ed}{\textsf{JavaScript}}$ 
 ----------------------------------------------------------
 <img src="https://github.com/InnocentRangaka/web-assets/blob/main/myBCLphoto2.jpg?raw=true" width="50%" alt="Innocent Rangaka's banner">
 
@@ -19,7 +19,7 @@ Aspiring Front-End Developer with a Passion for JavaScript
 src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>
 
 
-### Skills
+### $\textcolor{#3382ed}{\textsf{Skills}}$
 
 
 <p align="left">
@@ -40,41 +40,37 @@ src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=f
 </p>
 
 
-### Socials
+### $\textcolor{#3382ed}{\textsf{Socials}}$
 
 <p align="left"> 
   <a href="https://www.codepen.io/Innocent-Rangaka" target="_blank" rel="noreferrer"> 
     <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/InnocentRangaka/web-assets/blob/d1a4bfddf9724b823cd1ad7729216314585bbc8b/codepen-icon.svg" /> 
+      <img src="https://github.com/InnocentRangaka/web-assets/blob/d1a4bfddf9724b823cd1ad7729216314585bbc8b/codepen-icon.svg" width="32" height="32" /> 
     </picture> 
   </a>&nbsp
   <a href="https://discord.com/users/1177544204466008124" target="_blank" rel="noreferrer"> 
     <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/InnocentRangaka/web-assets/blob/f6e5a0263ba5afa22ff0ad26d85336d4d0622a94/discord-icon.svg" /> 
+      <img src="https://github.com/InnocentRangaka/web-assets/blob/f6e5a0263ba5afa22ff0ad26d85336d4d0622a94/discord-icon.svg" width="32" height="32" /> 
     </picture> 
   </a>&nbsp 
   <a href="https://www.github.com/InnocentRangaka" target="_blank" rel="noreferrer"> 
     <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+      <source media="(prefers-color: dark)" srcset="https://github.com/InnocentRangaka/web-assets/blob/d1a4bfddf9724b823cd1ad7729216314585bbc8b/github-icon.svg" /> 
+      <img src="https://github.com/InnocentRangaka/web-assets/blob/d1a4bfddf9724b823cd1ad7729216314585bbc8b/github-icon.svg" width="32" height="32" /> 
     </picture> 
   </a>&nbsp 
   <a href="https://www.x.com/itrangaka" target="_blank" rel="noreferrer"> 
     <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/InnocentRangaka/web-assets/blob/d1a4bfddf9724b823cd1ad7729216314585bbc8b/twitter-icon.svg" /> 
+      <img src="https://github.com/InnocentRangaka/web-assets/blob/d1a4bfddf9724b823cd1ad7729216314585bbc8b/twitter-icon.svg" width="32" height="32" /> 
     </picture> 
   </a>&nbsp
 </p>
 
 
-### Badges
+### $\textcolor{#3382ed}{\textsf{Badges}}$
 
 <b>My GitHub Stats</b>
 
