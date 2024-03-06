@@ -45,30 +45,30 @@ src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=f
 <p align="left"> 
   <a href="https://www.codepen.io/Innocent-Rangaka" target="_blank" rel="noreferrer"> 
     <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/InnocentRangaka/web-assets/blob/d1a4bfddf9724b823cd1ad7729216314585bbc8b/codepen-icon.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/InnocentRangaka/web-assets/blob/d1a4bfddf9724b823cd1ad7729216314585bbc8b/codepen-icon-dark.svg" /> 
-      <img src="https://github.com/InnocentRangaka/web-assets/blob/d1a4bfddf9724b823cd1ad7729216314585bbc8b/codepen-icon.svg" width="32" height="32" /> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/InnocentRangaka/web-assets/blob/8f6bad1d2e8f50d7238cf3d3d36f582812da10cd/img/icons/codepen-icon.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/InnocentRangaka/web-assets/blob/8f6bad1d2e8f50d7238cf3d3d36f582812da10cd/img/icons/codepen-icon-dark.svg" /> 
+      <img src="https://github.com/InnocentRangaka/web-assets/blob/8f6bad1d2e8f50d7238cf3d3d36f582812da10cd/img/icons/codepen-icon.svg" width="32" height="32" /> 
     </picture> 
   </a>&nbsp
   <a href="https://discord.com/users/1177544204466008124" target="_blank" rel="noreferrer"> 
     <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/InnocentRangaka/web-assets/blob/f6e5a0263ba5afa22ff0ad26d85336d4d0622a94/discord-icon.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/InnocentRangaka/web-assets/blob/f6e5a0263ba5afa22ff0ad26d85336d4d0622a94/discord-icon-dark.svg" /> 
-      <img src="https://github.com/InnocentRangaka/web-assets/blob/f6e5a0263ba5afa22ff0ad26d85336d4d0622a94/discord-icon.svg" width="32" height="32" /> 
+      <source media="(prefers-color-scheme: dark)" srcset="hhttps://github.com/InnocentRangaka/web-assets/blob/8f6bad1d2e8f50d7238cf3d3d36f582812da10cd/img/icons/discord-icon.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/InnocentRangaka/web-assets/blob/8f6bad1d2e8f50d7238cf3d3d36f582812da10cd/img/icons/discord-icon-dark.svg" /> 
+      <img src="https://github.com/InnocentRangaka/web-assets/blob/8f6bad1d2e8f50d7238cf3d3d36f582812da10cd/img/icons/discord-icon.svg" width="32" height="32" /> 
     </picture> 
   </a>&nbsp 
   <a href="https://www.github.com/InnocentRangaka" target="_blank" rel="noreferrer"> 
     <picture> 
-      <source media="(prefers-color: dark)" srcset="https://github.com/InnocentRangaka/web-assets/blob/d1a4bfddf9724b823cd1ad7729216314585bbc8b/github-icon.svg" /> 
-      <source media="(prefers-color: light)" srcset="https://github.com/InnocentRangaka/web-assets/blob/d1a4bfddf9724b823cd1ad7729216314585bbc8b/github-icon-dark.svg" /> 
-      <img src="https://github.com/InnocentRangaka/web-assets/blob/d1a4bfddf9724b823cd1ad7729216314585bbc8b/github-icon.svg" width="32" height="32" /> 
+      <source media="(prefers-color: dark)" srcset="https://github.com/InnocentRangaka/web-assets/blob/8f6bad1d2e8f50d7238cf3d3d36f582812da10cd/img/icons/github-icon.svg" /> 
+      <source media="(prefers-color: light)" srcset="https://github.com/InnocentRangaka/web-assets/blob/8f6bad1d2e8f50d7238cf3d3d36f582812da10cd/img/icons/github-icon-dark.svg" /> 
+      <img src="https://github.com/InnocentRangaka/web-assets/blob/8f6bad1d2e8f50d7238cf3d3d36f582812da10cd/img/icons/github-icon.svg" width="32" height="32" /> 
     </picture> 
   </a>&nbsp 
   <a href="https://www.x.com/itrangaka" target="_blank" rel="noreferrer"> 
     <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/InnocentRangaka/web-assets/blob/d1a4bfddf9724b823cd1ad7729216314585bbc8b/twitter-icon.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/InnocentRangaka/web-assets/blob/d1a4bfddf9724b823cd1ad7729216314585bbc8b/twitter-icon-dark.svg" /> 
-      <img src="https://github.com/InnocentRangaka/web-assets/blob/d1a4bfddf9724b823cd1ad7729216314585bbc8b/twitter-icon.svg" width="32" height="32" /> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/InnocentRangaka/web-assets/blob/8f6bad1d2e8f50d7238cf3d3d36f582812da10cd/img/icons/twitter-icon.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/InnocentRangaka/web-assets/blob/8f6bad1d2e8f50d7238cf3d3d36f582812da10cd/img/icons/twitter-icon-dark.svg" /> 
+      <img src="https://github.com/InnocentRangaka/web-assets/blob/8f6bad1d2e8f50d7238cf3d3d36f582812da10cd/img/icons/twitter-icon.svg" width="32" height="32" /> 
     </picture> 
   </a>&nbsp
 </p>
