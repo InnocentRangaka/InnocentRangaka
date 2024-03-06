@@ -44,32 +44,32 @@ src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=f
 <div class="image-container">
         <a href="https://table2part5.netlify.app">
           <picture> 
-            <img src="https://raw.githubusercontent.com/InnocentRangaka/web-assets/main/img/thumbs/table2part5-thumb.avif?token=GHSAT0AAAAAACM4DROHQGBBPAP7M47TP5DYZPID7YQ" alt="Table2Part5" width="33%"> 
+            <img src="https://github.com/InnocentRangaka/web-assets/blob/7b5b72d5b9b0bf5ffcb5153bfb044a7adc49dd9a/img/thumbs/table2part5-thumb.avif" alt="Table2Part5" width="33%"> 
           </picture> 
         </a>
         <a href="https://ir532portfoliopiece.netlify.app">
           <picture> 
-            <img src="https://raw.githubusercontent.com/InnocentRangaka/web-assets/main/img/thumbs/cache-thumb.avif?token=GHSAT0AAAAAACM4DROHTV5TE7EPR6Q3O2Y2ZPID35A" alt="Portfolio Piece" width="33%"> 
+            <img src="https://github.com/InnocentRangaka/web-assets/blob/7b5b72d5b9b0bf5ffcb5153bfb044a7adc49dd9a/img/thumbs/cache-thumb.avif" alt="Portfolio Piece" width="33%"> 
           </picture>
         </a>
         <a href="https://ir532keeplist.netlify.app">
           <picture> 
-            <img src="https://raw.githubusercontent.com/InnocentRangaka/web-assets/main/img/thumbs/KeepList-thumb.avif?token=GHSAT0AAAAAACM4DROG6XNZ37ZIOVVB27RUZPID2MQ" alt="Keep List" width="33%"> 
+            <img src="https://github.com/InnocentRangaka/web-assets/blob/7b5b72d5b9b0bf5ffcb5153bfb044a7adc49dd9a/img/thumbs/KeepList-thumb.avif" alt="Keep List" width="33%"> 
           </picture> 
         </a>
         <a href="https://ir532petsprofile.netlify.app">
           <picture> 
-            <img src="https://raw.githubusercontent.com/InnocentRangaka/web-assets/main/img/thumbs/petsInstagram-thumb.avif?token=GHSAT0AAAAAACM4DROH6M67XP3DTIMP576GZPID7JQ" alt="Pet Profile" width="33%"> 
+            <img src="https://github.com/InnocentRangaka/web-assets/blob/7b5b72d5b9b0bf5ffcb5153bfb044a7adc49dd9a/img/thumbs/petsInstagram-thumb.avif" alt="Pet Profile" width="33%"> 
           </picture>
         </a>
         <a href="https://ir532blackjack.netlify.app">
           <picture> 
-            <img src="https://raw.githubusercontent.com/InnocentRangaka/web-assets/main/img/thumbs/blackjack-thumb.avif?token=GHSAT0AAAAAACM4DROHRYZHXAC3IQ36KXVGZPID3NQ" alt="Blackjack Game" width="33%"> 
+            <img src="https://github.com/InnocentRangaka/web-assets/blob/7b5b72d5b9b0bf5ffcb5153bfb044a7adc49dd9a/img/thumbs/blackjack-thumb.avif" alt="Blackjack Game" width="33%"> 
           </picture>
         </a>
         <a href="https://innran532miportfolio.netlify.app">
           <picture> 
-            <img src="https://raw.githubusercontent.com/InnocentRangaka/web-assets/main/img/thumbs/cache-thumb.avif?token=GHSAT0AAAAAACM4DROHTV5TE7EPR6Q3O2Y2ZPID35A" alt="Mi Portfolio" width="33%"> 
+            <img src="https://github.com/InnocentRangaka/web-assets/blob/7b5b72d5b9b0bf5ffcb5153bfb044a7adc49dd9a/img/thumbs/cache-thumb.avif" alt="Mi Portfolio" width="33%"> 
           </picture>
         </a>
     </div>
