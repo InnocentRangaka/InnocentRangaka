@@ -3,7 +3,8 @@
 Aspiring $\textcolor{#3382ed}{\textsf{Front-End Developer}}$ | Learner of $\textcolor{#3382ed}{\textsf{JavaScript}}$ and Beyond
 ---------------------------------------------------------
 <br>
-<img src="https://github.com/InnocentRangaka/web-assets/blob/main/myBCLphoto2.jpg?raw=true" width="50%" alt="Innocent Rangaka's banner">
+
+<img src="https://github.com/InnocentRangaka/web-assets/blob/ffc68e4c6178c384579d86c6834dae311f4831b6/img/me/myBCLphoto2.jpg?raw=true" width="50%" alt="Innocent Rangaka's banner">
 
 <p>I'm a motivated software development student, passionate about crafting user-centric and innovative web experiences. My fascination with creating visually appealing and interactive interfaces fueled my passion for front-end development, where I strive to provide seamless user experiences with HTML, CSS (CSS3, Bootstrap, Tailwind), JavaScript, PHP, and MySQL.</p>
 
