@@ -64,7 +64,7 @@ src="https://img.shields.io/github/followers/InnocentRangaka?logo=github&style=f
 **Soft Skills**
 * Creativity and Empathy
 * Active listening
-* Problem Solving and critical thinkin
+* Problem Solving and critical thinking
 * Self-management
 * Curiosity and williness to learn
 * Adaptability
